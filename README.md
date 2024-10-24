@@ -2,6 +2,7 @@
 
 Simple service to report city trash can levels in golang
 
+[![Go Build Check](https://github.com/jasoncwyuan/trash-levels-lab/actions/workflows/build-tl.yml/badge.svg)](https://github.com/jasoncwyuan/trash-levels-lab/actions/workflows/build-tl.yml)
 
 ## Microservice component of CICD demo
 
